@@ -1,11 +1,11 @@
 <div align="center">
-    <h1>Awesome Spatial Intelligence in VLM</h1>
+    <h1>Awesome Spatial Intelligence in VLMs</h1>
     <a href="https://awesome.re"><img src="https://awesome.re/badge.svg"/></a>
     <img src=https://img.shields.io/github/stars/yyyybq/Awesome-Spatial-Reasoning.svg?style=social >
 </div>
 
 
-This is a carefully curated and maintained list of resources, bringing together key methods, datasets and benchmarks in the field of Spatial Intelligence in VLM .
+This is a carefully curated and maintained list of resources, bringing together key methods, datasets and benchmarks in the field of Spatial Intelligence in VLMs .
 
 Spatial reasoning is a core capability for achieving Artificial General Intelligence (AGI) and Physical Intelligence. It requires models to not only "see" objects but to also understand their positions, relationships, geometry, and dynamic changes within the 3D world.
 
@@ -17,7 +17,7 @@ We welcome contributions of excellent resources you find via Pull Request!
 
 
 ## Table of Contents
-- [Awesome Spatial Intelligence in VLM](#Awesome Spatial Intelligence in VLM)
+- [Awesome Spatial Intelligence in VLMs](#Awesome Spatial Intelligence in VLMs)
   <!-- - [Overview](#Overview-of-Embodied-Multimodal-LLMs) -->
   - [Methods](#Methods)
   - [Datasets & Benchmark](#Datasets-&-Benchmark)
@@ -106,7 +106,7 @@ social network, flow chart, mind map). It's also important for LLM or VLM to bui
 |  <br/>[SpatialVID: A Large-Scale Video Dataset with Spatial Annotations](https://arxiv.org/abs/2509.09676) |   <img width="700" alt="image" src="imgs/SpatailVID.png">   | 2025-09 |     [Github](https://nju-3dv.github.io/projects/SpatialVID)   |
 |  <br/>[11Plus-Bench: Demystifying Multimodal LLM Spatial Reasoning with Cognitive-Inspired Analysis](https://arxiv.org/html/2508.20068v1) |   <img width="700" alt="image" src="imgs/11Plus.png">   | 2025-08 |   -  |
 | [![Publish](https://img.shields.io/badge/Conference-ICCV'25-blue)]() <br/>[Towards Scalable Spatial Intelligence via 2D-to-3D Data Lifting](https://arxiv.org/pdf/2507.18678) |   <img width="700" alt="image" src="imgs/scalable.png">   | 2025-07 |     [Github](https://zhanggongjie.github.io/TowardsSSI-page/)   |
-|  <br/>[Ascending the Infinite Ladder: Benchmarking Spatia](https://arxiv.org/pdf/2507.02978v1) |   <img width="700" alt="image" src="imgs/Inf-Bench.png"> | 2025-07 | -  |
+|  <br/>[Ascending the Infinite Ladder: Benchmarking Spatial Deformation Reasoning in Vision-Language Models](https://arxiv.org/pdf/2507.02978v1) |   <img width="700" alt="image" src="imgs/Inf-Bench.png"> | 2025-07 | -  |
 |  <br/>[SpatialViz-Bench: An MLLM Benchmark for Spatial Visualization](https://web3.arxiv.org/pdf/2507.07610) |   <img width="700" alt="image" src="imgs/SpatialViz.png"> | 2025-07 | [Github](https://huggingface.co/datasets/PLM-Team/Spatial-Visualization-Benchmark)   |
 |  <br/>[Spatial Mental Modeling from Limited Views](https://arxiv.org/abs/2506.21458) |   <img width="700" alt="image" src="imgs/mindcube.png">   | 2025-06 |             [Github](https://mind-cube.github.io/) |
 |  <br/>[SIRI-Bench: Challenging VLMs' Spatial Intelligence through Complex Reasoning Tasks](https://arxiv.org/pdf/2506.14512) |   <img width="700" alt="image" src="imgs/SIRI.png">   | 2025-06 |        - |
